@@ -31,4 +31,4 @@
 
 ### **Example Output**
 - The output to the console and the screenshot we must include must look similar to the below image:
-![Example Output from Console](./..assets/example_output.png)
+![Example Output from Console](./assets/example_output.png)
